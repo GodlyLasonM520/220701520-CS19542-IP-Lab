@@ -1,0 +1,46 @@
+.body{
+	border-top: 4px solid black;
+	border-style: double;
+	border-color: black;
+    padding: 0px;
+    
+}
+.h1{
+   width: 900px;  /* Set the width of the box */
+   height: 95px;  /* Set the height of the box */
+   border: 3px solid #ddd;  /* Define the border style, width, and color */
+   background-color: white;
+ 
+}
+.l{
+	border: 3px solid;
+}
+.s{
+	display: inline-block;
+	padding: 15px;
+	
+}
+h1{
+	
+	font-family: monospace;
+	font-size: 50px;
+	letter-spacing: 20px;
+	text-align: center;
+	color: lightblue;
+    text-align: center;
+    border: 1px solid black;
+    background-color:black;
+
+	
+}
+dd{
+	font-family: sans-serif;
+
+}
+dt{
+	font-size: 36px;
+}
+a{
+	  text-decoration: none;
+	  color: black;
+}
